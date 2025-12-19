@@ -13,7 +13,7 @@ optimize supply chain operations and improve profitability.
 
 ## 🛠 Tools Used
 
-Tools used: Python (library: Seaborn, Matplotlib, Pandas, and Numpy)
+Python (library: Seaborn, Matplotlib, Pandas, and Numpy)
 
 MySQL
 
